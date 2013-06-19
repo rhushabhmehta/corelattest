@@ -1,0 +1,4 @@
+corelattest
+===========
+
+Core Latitude Test
